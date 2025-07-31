@@ -1,0 +1,89 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "retry": "Réessayer",
+    "contact": "Contact",
+    "about": "À propos",
+    "portfolio": "Portefeuille",
+    "insights": "Perspectives",
+    "home": "Accueil"
+  },
+  "navigation": {
+    "menu": "Menu",
+    "close": "Fermer",
+    "language": "Langue",
+    "theme": "Thème",
+    "light": "Clair",
+    "dark": "Sombre"
+  },
+  "hero": {
+    "title": "Capital-Risque Stratégique",
+    "subtitle": "Conduire l'Innovation à Travers les Marchés Émergents",
+    "description": "Eastgate Venture Holdings s'associe avec des entrepreneurs visionnaires pour construire des entreprises transformatrices qui façonnent l'avenir de la technologie et des affaires.",
+    "cta": "Explorer le Portefeuille",
+    "ctaSecondary": "Critères d'Investissement"
+  },
+  "portfolio": {
+    "title": "Notre Portefeuille",
+    "subtitle": "Entreprises Exceptionnelles que Nous Avons Aidé à Construire",
+    "filterAll": "Tous",
+    "filterTech": "Technologie",
+    "filterFintech": "Fintech",
+    "filterHealthcare": "Santé",
+    "companies": "Entreprises",
+    "totalInvestment": "Investissement Total",
+    "exitValue": "Valeur de Sortie"
+  },
+  "insights": {
+    "title": "Perspectives du Marché",
+    "subtitle": "Recherche et Analyse",
+    "readMore": "Lire Plus",
+    "categories": {
+      "all": "Tous",
+      "market": "Analyse de Marché",
+      "tech": "Tendances Technologiques",
+      "strategy": "Stratégie d'Investissement"
+    }
+  },
+  "about": {
+    "title": "À Propos d'Eastgate",
+    "subtitle": "Excellence en Capital-Risque",
+    "mission": "Notre Mission",
+    "vision": "Notre Vision",
+    "values": "Nos Valeurs",
+    "team": "Notre Équipe"
+  },
+  "contact": {
+    "title": "Nous Contacter",
+    "subtitle": "Demandes d'Investissement et Partenariats",
+    "ctaTitle": "Prêt à Devenir Notre Partenaire?",
+    "ctaSubtitle": "Connectez-vous avec notre équipe d'investissement pour explorer les opportunités et discuter de comment nous pouvons accélérer votre croissance.",
+    "form": {
+      "name": "Nom Complet",
+      "email": "Adresse E-mail",
+      "company": "Entreprise",
+      "message": "Message",
+      "submit": "Envoyer le Message",
+      "success": "Merci pour votre message. Nous vous répondrons bientôt.",
+      "error": "Échec de l'envoi du message. Veuillez réessayer."
+    },
+    "office": {
+      "title": "Bureaux",
+      "address": "Adresse",
+      "phone": "Téléphone",
+      "email": "E-mail"
+    }
+  },
+  "team": {
+    "title": "Notre Équipe",
+    "subtitle": "Les experts derrière notre succès",
+    "viewAll": "Voir Tous les Membres de l'Équipe"
+  },
+  "footer": {
+    "copyright": "© 2025 Eastgate Venture Holdings. Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions de Service",
+    "disclaimer": "Avertissement d'Investissement"
+  }
+}

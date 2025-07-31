@@ -1,0 +1,89 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again",
+    "contact": "Contact",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "insights": "Insights",
+    "home": "Home"
+  },
+  "navigation": {
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "hero": {
+    "title": "Strategic Venture Capital",
+    "subtitle": "Driving Innovation Across Emerging Markets",
+    "description": "Eastgate Venture Holdings partners with visionary entrepreneurs to build transformative companies that shape the future of technology and business.",
+    "cta": "Explore Portfolio",
+    "ctaSecondary": "Investment Criteria"
+  },
+  "portfolio": {
+    "title": "Our Portfolio",
+    "subtitle": "Exceptional Companies We've Helped Build",
+    "filterAll": "All",
+    "filterTech": "Technology",
+    "filterFintech": "Fintech",
+    "filterHealthcare": "Healthcare",
+    "companies": "Companies",
+    "totalInvestment": "Total Investment",
+    "exitValue": "Exit Value"
+  },
+  "insights": {
+    "title": "Market Insights",
+    "subtitle": "Research & Analysis",
+    "readMore": "Read More",
+    "categories": {
+      "all": "All",
+      "market": "Market Analysis",
+      "tech": "Technology Trends",
+      "strategy": "Investment Strategy"
+    }
+  },
+  "about": {
+    "title": "About Eastgate",
+    "subtitle": "Venture Capital Excellence",
+    "mission": "Our Mission",
+    "vision": "Our Vision",
+    "values": "Our Values",
+    "team": "Our Team"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Investment Inquiries & Partnerships",
+    "ctaTitle": "Ready to Partner With Us?",
+    "ctaSubtitle": "Connect with our investment team to explore opportunities and discuss how we can help accelerate your growth.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Thank you for your message. We'll get back to you soon.",
+      "error": "Failed to send message. Please try again."
+    },
+    "office": {
+      "title": "Office Locations",
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email"
+    }
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "The experts behind our success",
+    "viewAll": "View All Team Members"
+  },
+  "footer": {
+    "copyright": "© 2025 Eastgate Venture Holdings. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "disclaimer": "Investment Disclaimer"
+  }
+}
